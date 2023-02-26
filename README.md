@@ -1,2 +1,1 @@
-# alx-pre_course
-alx software journey
+My first readme
